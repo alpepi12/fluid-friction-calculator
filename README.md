@@ -1,5 +1,5 @@
 # Fluid Friction Coefficient Plotter
-<sup>*Undergrad project (2017)*</sup>
+<sup>*Undergraduate project for engineering computation course (2017).*</sup>
 
 This program calculates the friction coefficient of a fluid in a pipe using the Colebrook-White equation.
 
