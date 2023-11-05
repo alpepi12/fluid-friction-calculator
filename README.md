@@ -7,6 +7,9 @@ The user inputs a range of pipe diameters and fluid proprties.
 The program outputs a plot of the friction coefficient in relation to the pipe diameter, for the fluid properties given.
 The program can also save up to 5 data sets, and import saved data for plotting.
 
+<br/><br/>
+The program outputs a 2D plot and console output as shown below:
+
 <img src="https://github.com/alpepi12/fluid-friction-calculator/assets/91648886/5a9e8910-640a-4da1-9cca-bbfd49196ec7" alt="plot" height="500"/>
 <br/>
 <br/>
